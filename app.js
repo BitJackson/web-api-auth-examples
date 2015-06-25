@@ -41,7 +41,7 @@ app.use(express.static(__dirname + '/public'))
 
 
 app.get('/tape/:id', function(req, res) {
-  alert('hit');
+  console.log(req.params);
 });
 
 
