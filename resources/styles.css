@@ -1,0 +1,28 @@
+#mixtaper {
+	opacity: 0;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.container {
+	text-align: center;
+}
+.tape {
+	width: 600px;
+	margin: 0 auto;
+}
+#url {
+	width: 300px;
+}
+#pause {
+	display: none;
+}
+.permalink {
+	margin-top: 30px;
+}
+#permalink {
+	width: 400px;
+}
+.player {
+	margin-bottom: 20px;
+}
