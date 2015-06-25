@@ -52,6 +52,7 @@
 				
 
 				<div class="row">
+					<p>Share this secret mixtape with your friends! Just send them this link</p>
 					<div class="col-sm-12 permalink">
 						Permalink: <input type="text" id="permalink" value="http://<?php echo $_SERVER['HTTP_HOST'];?>?tape=<?php echo base64_encode($_GET['tape']); ?>" />
 					</div>
@@ -79,6 +80,7 @@
 					?>
 					<div class="row">
 						<div class="col-sm-12 permalink">
+							<p>Share this secret mixtape with your friends! Just send them this link</p>
 							Permalink: <input type="text" id="permalink" value="http://<?php echo $_SERVER['HTTP_HOST']; ?>?tape=<?php echo $url; ?>" />
 						</div>
 					</div>
