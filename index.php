@@ -91,7 +91,7 @@
 		<?php else: ?>
 			<div class="row">
 				<div class="col-sm-6 col-sm-offset-3">
-					<h3>Enter a soundcloud URL to generate a secret mixtape</h3>
+					<h3>Enter a soundcloud URL (song or playlist) to generate a secret mixtape</h3>
 
 					<div class="submit">
 						<form id="submitForm" method="POST">
