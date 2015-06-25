@@ -4,7 +4,7 @@
 <head>
 	<meta charset="utf-8">
 
-	<title>Mixtaper</title>
+	<title>Secret Mixtape</title>
 	<meta name="description" content="Mixtaper">
 	<meta name="author" content="Jackson Willis & Mike Rogers">
 
